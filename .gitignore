@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.db
+secrets/*.pem
+*.env
+*.log
+docker-data/
+postgres-data/
+.vscode/

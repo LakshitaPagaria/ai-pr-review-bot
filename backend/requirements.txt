@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+httpx
+celery[redis]
+redis
+sqlalchemy
+psycopg2-binary
+python-dotenv
+openai
+pyjwt
+pydantic
+alembic
+python-multipart
+python-jose
+PyJWT[crypto]
+cryptography
